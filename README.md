@@ -1,4 +1,4 @@
-# About
+#
 
 ![issue-tracker](https://github.com/user-attachments/assets/9aad1e39-f767-4d6b-a0a1-945088cbf303)
 

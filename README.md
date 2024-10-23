@@ -1,5 +1,8 @@
 # About
 
+![issue-tracker](https://github.com/user-attachments/assets/9aad1e39-f767-4d6b-a0a1-945088cbf303)
+
+
 ## Welcome to the Sceneri Issue Tracker!
 
 This repository is here to share updates with the community about the bugs reported in Sceneri and how they’re being handled.

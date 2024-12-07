@@ -22,7 +22,7 @@ Sceneri is a large and intricate project, and with so many helpful bug reports c
 ### Helpful resources
 
 *  [Sceneri Repositories](https://github.com/orgs/nginetechnologies/repositories)
-*  [Documentation](https://docs.sceneri.com)
+*  [Documentation]([https://docs.sceneri.com](https://www.sceneri.com/sceneri-pro-docs/sceneri-pro/introduction/))
 *  [Discord](https://discord.gg/sceneriapp)
 
 Thanks for helping us out and for joining along with us on this journey!
